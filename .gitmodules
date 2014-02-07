@@ -1,0 +1,3 @@
+[submodule "qtwebkit"]
+	path = qtwebkit
+	url = https://github.com/qtproject/qtwebkit.git
