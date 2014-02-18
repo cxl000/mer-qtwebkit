@@ -12,7 +12,7 @@ BuildRequires:  qt5-qtnetwork-devel
 BuildRequires:  qt5-qtwidgets-devel
 BuildRequires:  qt5-qtprintsupport-devel
 #BuildRequires:  qt5-qtlocation-devel
-BuildRequires:  qt5-qtmultimedia-devel
+BuildRequires:  qt5-qtmultimedia-g1-devel
 BuildRequires:  qt5-qtscript-devel
 BuildRequires:  pkgconfig(Qt5Qml)
 BuildRequires:  pkgconfig(Qt5Quick)
